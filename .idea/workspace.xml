@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb1d1e8f-ee30-4cd8-8423-ce0c240cbfb1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/authors/Yuhang.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/authors/Yuhang.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/Hardenberg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/Screen Shot 2016-09-09 at 15.42.53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/Screen Shot 2016-09-09 at 16.00.32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/Screen Shot 2016-09-09 at 16.11.13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/WeiweiMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/a1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Hardenberg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Screen Shot 2016-09-09 at 15.42.53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Screen Shot 2016-09-09 at 16.00.32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Screen Shot 2016-09-09 at 16.11.13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/WeiweiMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/a1.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/background/MinardMap.jpg" afterPath="$PROJECT_DIR$/_site/img/background/MinardMap.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/background/MinardMap.jpg" afterPath="$PROJECT_DIR$/img/background/MinardMap.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
@@ -59,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-10-04-StefanMap.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-10-04-StefanMap.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-10-04-StefanMap.markdown">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -67,7 +79,23 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor vertical-scroll-proportion="0.5365854">
-                <caret line="13" column="990" selection-start-line="13" selection-start-column="990" selection-end-line="13" selection-end-column="990" />
+                <caret line="13" column="1012" selection-start-line="13" selection-start-column="1012" selection-end-line="13" selection-end-column="1012" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-10-04-culturemap.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-10-04-culturemap.markdown">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.31707317">
+                <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -114,6 +142,7 @@
         <option value="$PROJECT_DIR$/_posts/2016-10-02-toblermap.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-10-04-Doantam.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-10-04-StefanMap.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2016-10-04-culturemap.markdown" />
       </list>
     </option>
   </component>
@@ -795,7 +824,21 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.5365854">
-            <caret line="13" column="990" selection-start-line="13" selection-start-column="990" selection-end-line="13" selection-end-column="990" />
+            <caret line="13" column="1012" selection-start-line="13" selection-start-column="1012" selection-end-line="13" selection-end-column="1012" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-10-04-culturemap.markdown">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.31707317">
+            <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />

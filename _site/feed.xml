@@ -6,9 +6,24 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Tue, 04 Oct 2016 16:22:06 +0200</pubDate>
-        <lastBuildDate>Tue, 04 Oct 2016 16:22:06 +0200</lastBuildDate>
+        <pubDate>Tue, 04 Oct 2016 16:31:12 +0200</pubDate>
+        <lastBuildDate>Tue, 04 Oct 2016 16:31:12 +0200</lastBuildDate>
         <generator>Jekyll v3.2.1</generator>
+        
+        <item>
+            <title>A network framework of cultural history</title>
+            <description>&lt;h3 id=&quot;net-migration-flow-map&quot;&gt;Net Migration Flow Map&lt;/h3&gt;
+&lt;p&gt;http://science.sciencemag.org/content/345/6196/558&lt;/p&gt;
+
+&lt;h3 id=&quot;multi-resolution-migration-mapping&quot;&gt;Multi-Resolution Migration Mapping&lt;/h3&gt;
+&lt;p&gt;http://www.nature.com/news/humanity-s-cultural-history-captured-in-5-minute-film-1.15650&lt;/p&gt;
+</description>
+            <pubDate>Tue, 04 Oct 2016 00:12:12 +0200</pubDate>
+            <link>#/2016/10/04/culturemap.html</link>
+            <guid isPermaLink="true">#/2016/10/04/culturemap.html</guid>
+            
+            
+        </item>
         
         <item>
             <title>Net Migration Flow Map</title>
