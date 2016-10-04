@@ -1,10 +1,10 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "The classical flow map"
+subtitle: "Charles Minard’s Map of Napoleon’s Russian Campaign of 1812"
+author: "Yuhang"
+avatar: "img/authors/yuhang.png"
 image: "img/background/MinardMap.jpg"
-date:   2015-04-20 12:12:12
+date:   2016-10-03 12:12:12
 ---
 
 ### Dolor sit amet?
