@@ -1,10 +1,10 @@
 ---
-title:  "The classical flow map"
-subtitle: "Charles Minard’s Map of Napoleon’s Russian Campaign of 1812"
+title:  "The Frist Flow Map"
+subtitle: "The 1837 Map of Henry Drury Harness"
 author: "Yuhang"
 avatar: "img/authors/yuhang.png"
 image: "img/background/firstflowmap.jpg"
-date:   2016-10-02 12:12:12
+date:   2016-10-02 12:00:00
 ---
 
 ### It may well be the best statistical graphic ever drawn (Tufte)
