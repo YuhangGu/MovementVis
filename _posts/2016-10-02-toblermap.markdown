@@ -1,10 +1,10 @@
 ---
-title:  "The 'BEST' Flow Map"
-subtitle: "Charles Minard’s Map of Napoleon’s Russian Campaign of 1812"
+title:  "Frist Computer Generated Flow Map"
+subtitle: "Experiments in migration mapping by computer"
 author: "Yuhang"
 avatar: "img/authors/yuhang.png"
-image: "img/background/MinardMap.jpg"
-date:   2016-10-03 12:12:12
+image: "img/background/Toblermap.jpg"
+date:   2016-10-02 12:00:00
 ---
 
 ### It may well be the best statistical graphic ever drawn (Tufte)
