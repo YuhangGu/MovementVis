@@ -1,10 +1,10 @@
 ---
 title:  "Net Migration Flow Map"
 subtitle: "Origin-Destination Flow Data Smoothing and Mapping"
-author: "Yuhang"
-avatar: "img/authors/yuhang.png"
+author: "Tianyuan"
+avatar: "img/authors/tianyuan.png"
 image: "img/background/GuoMap2014.jpg"
-date:   2016-10-03 20:12:12
+date:   2016-10-03 21:12:12
 ---
 
 ### Net Migration Flow Map
