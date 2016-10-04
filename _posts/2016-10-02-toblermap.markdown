@@ -3,7 +3,7 @@ title:  "Frist Computer Generated Flow Map"
 subtitle: "Experiments in migration mapping by computer"
 author: "Yuhang"
 avatar: "img/authors/yuhang.png"
-image: "img/background/Toblermap.jpg"
+image: "img/background/ToblerMap.jpg"
 date:   2016-10-02 12:00:00
 ---
 
