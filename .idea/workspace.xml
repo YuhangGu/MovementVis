@@ -2,11 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb1d1e8f-ee30-4cd8-8423-ce0c240cbfb1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/background/GuoMap2014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/bak/a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/bak/a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/bak/b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/bak/c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/bak/d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/bak/e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/bak/f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/d1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/background/GuoMap2014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bak/a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bak/a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bak/b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bak/c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bak/d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bak/e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bak/f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/d1.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-04-guomap.markdown" afterPath="$PROJECT_DIR$/_posts/2016-10-04-guomap.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/modern-blog.css" afterPath="$PROJECT_DIR$/_site/css/modern-blog.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modern-blog.css" afterPath="$PROJECT_DIR$/css/modern-blog.css" />
     </list>
     <ignored path="MovementVis.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +45,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2016-10-03-minardmap.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-10-03-minardmap.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-10-03-minardmap.markdown">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -35,7 +53,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor vertical-scroll-proportion="0.31610942">
-                <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+                <caret line="13" column="41" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="1174" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,15 +71,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-10-04-guomap.markdown" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2016-10-04-guomap.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2016-10-04-guomap.markdown">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.34042552">
-                <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.31610942">
+                <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -72,8 +90,8 @@
       <file leaf-file-name="modern-blog.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/modern-blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.6862745">
-              <caret line="150" column="20" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
+            <state vertical-scroll-proportion="-6.0128207">
+              <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -123,7 +141,6 @@
         <option value="$PROJECT_DIR$/_site/2015/04/23/night-sky.html" />
         <option value="$PROJECT_DIR$/_site/2015/04/25/workshop.html" />
         <option value="$PROJECT_DIR$/_site/feed.xml" />
-        <option value="$PROJECT_DIR$/css/modern-blog.css" />
         <option value="$PROJECT_DIR$/_posts/2015-04-20-planes.markdown" />
         <option value="$PROJECT_DIR$/_posts/2015-04-21-city-nights.markdown" />
         <option value="$PROJECT_DIR$/_posts/2015-04-22-what-time.markdown" />
@@ -143,6 +160,7 @@
         <option value="$PROJECT_DIR$/_posts/2016-10-03-guomap.markdown" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/modern-blog.css" />
         <option value="$PROJECT_DIR$/_posts/2016-10-04-guomap.markdown" />
       </list>
     </option>
@@ -310,53 +328,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MovementVis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MovementVis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MovementVis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MovementVis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MovementVis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MovementVis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -760,14 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/modern-blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.6862745">
-          <caret line="150" column="20" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.333333">
@@ -776,17 +740,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-04-guomap.markdown">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.34042552">
-            <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/css/modern-blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0128207">
+          <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -797,7 +755,21 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.31610942">
-            <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <caret line="13" column="41" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="1174" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-10-04-guomap.markdown">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.31610942">
+            <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
             <folding />
           </first_editor>
           <second_editor />

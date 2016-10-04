@@ -113,7 +113,8 @@
 }
 
 .card__container--closed .card__title {
-	background-color: darkslateblue;
+	background-color: #9d13d6;
+	opacity: 0.6;
 	color: #fff;
 }
 
@@ -125,7 +126,8 @@
 }
 
 .card__container--closed .card__subtitle {
-	background-color: darkslateblue;
+	background-color: #9d13d6;
+	opacity: 0.6;
 	color: #fff;
 }
 
@@ -160,7 +162,6 @@
 	display: -webkit-flex;
 	display: flex;
 	padding: 0 0 35px 0;
-
 	-webkit-align-items: center;
 	align-items: center;
 }
