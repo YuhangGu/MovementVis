@@ -1,0 +1,14 @@
+---
+title:  "Net Migration Flow Map"
+subtitle: "Origin-Destination Flow Data Smoothing and Mapping"
+author: "Yuhang"
+avatar: "img/authors/yuhang.png"
+image: "img/background/GuoMap2014.jpg"
+date:   2016-10-04 10:12:12
+---
+
+### Net Migration Flow Map
+Top 200 smoothed net migration flows are overlayed on top of a map of smoothed net migration rate for each county. Blue colors represent places that had more out-migration than in-migration while red areas were hot destinations. The smoothed flows clearly explain the patterns in the net migration rate map. We can see where the out-migration went and where in-migration came from for the red areas.
+
+### Multi-Resolution Migration Mapping
+By examining the flow map in Figure, we can obtain a rich set of new information on the national trends and local patterns of migration in the U.S. For example, the net migration rate map in Fig. 4 shows that the area around El Paso (Texas) has a strong negative net migration rate, indicating a significant loss of population due to out-migration to other areas. The flow map confirms this pattern and shows that its outgoing net-migration went almost in all directions to nearby areas. A number of metropolitan areas lose population due to negative net migration, such as Houston, Chicago, Boston, Detroit, Los Angeles, San Francisco, and Seattle. From the flow map, we can understand where the out-migration went. For example, it is surprising to see a large migration flow from Chicago to the Philadelphia area. Among others, one interesting trend shown in the map is that the net migration from the big blue band (stretching from El Paso, to Lubbock and to the west of Minneapolis) mostly moved to the east.
