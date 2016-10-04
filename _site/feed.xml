@@ -6,8 +6,8 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Tue, 04 Oct 2016 16:31:12 +0200</pubDate>
-        <lastBuildDate>Tue, 04 Oct 2016 16:31:12 +0200</lastBuildDate>
+        <pubDate>Tue, 04 Oct 2016 17:18:52 +0200</pubDate>
+        <lastBuildDate>Tue, 04 Oct 2016 17:18:52 +0200</lastBuildDate>
         <generator>Jekyll v3.2.1</generator>
         
         <item>
@@ -17,6 +17,10 @@
 
 &lt;h3 id=&quot;multi-resolution-migration-mapping&quot;&gt;Multi-Resolution Migration Mapping&lt;/h3&gt;
 &lt;p&gt;http://www.nature.com/news/humanity-s-cultural-history-captured-in-5-minute-film-1.15650&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;https://yuhanggu.github.io/MovementVis/img/background/GuoMap2014.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+&lt;/div&gt;
 </description>
             <pubDate>Tue, 04 Oct 2016 00:12:12 +0200</pubDate>
             <link>#/2016/10/04/culturemap.html</link>
