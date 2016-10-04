@@ -50,6 +50,7 @@ layout: compress
                         <defs>
                             <clipPath id="{{ post.id }}-clip-path">
                                 <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                                <!--polygon class="clip" points="0,1200 0,890 1920,890 1920,1200"></polygon-->
                             </clipPath>
                         </defs>
                         <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
@@ -63,9 +64,12 @@ layout: compress
                         </div>
                         <div class="card__copy">
                             <div class="meta">
-                                <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                <img class="meta__avatar" src="{{ post.avatar }}" width="1920", height="1200"/>
                                 <span class="meta__author">{{ post.author }}</span>
                                 <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </div>
+                            <div class="card__content_imagecontainer">
+                                <img class = "card__content_image" src="{{ post.image }}"/>
                             </div>
                             {{ post.content }}
                         </div>
