@@ -3,10 +3,10 @@
   <channel>
     <title>Visualization of Movement</title>
     <description>Gallery of Flow Maps.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Oct 2016 17:04:52 +0200</pubDate>
-    <lastBuildDate>Wed, 05 Oct 2016 17:04:52 +0200</lastBuildDate>
+    <link>https://yuhanggu.github.io/MovementVis/</link>
+    <atom:link href="https://yuhanggu.github.io/MovementVis/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 Oct 2016 17:36:50 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2016 17:36:50 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;Mapping the time dimension means mapping change in a feature’s geometry, its attributes or both. Traditionally, cartographers have three options to display geospatial data with a temporal component. These are a single (static) map, in which specific graphic variables and symbols are used to show change and represent events. Minard’s map is a good example of the first category. The second option is a series of (static) maps, sometimes called a small multiple. Fig. 3 gives several examples. The single map represents a snapshot in time and together the series of maps constitutes an event. succession of the individual maps depicting the events in successive snapshots. It could be said that the temporal sequence is represented by spatial sequence, which the user has to follow, in order to perceive temporal variation. Finally, one can create an animated map. Here change is perceived to happen in a single image by displaying several snapshots one after the other. The difference with the animation from the static series of maps is that the variations introduced to represent an event are not deduced from a spatial sequence, but from real movement on the map itself.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
-        <link>/articles/2016-10/frist-flowmap</link>
-        <guid isPermaLink="true">/articles/2016-10/frist-flowmap</guid>
+        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/frist-flowmap</link>
+        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/frist-flowmap</guid>
         
         
         <category>2D</category>
