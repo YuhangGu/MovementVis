@@ -6,7 +6,8 @@
 title: Visualization of Movement
 email: gu_yuhang@outlook.com
 description: Gallery of Flow Maps.
-url: https://yuhanggu.github.io/MovementVis
+url:
+#url: https://yuhanggu.github.io/MovementVis
 
 
 #
@@ -33,8 +34,8 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
+  name: Yuhang Gu
+  avatar: tianyuan.png
   job: "Visualization of Movement"
   bio: "Gallery of Flow Maps"
   email:
