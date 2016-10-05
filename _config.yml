@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Visualization of Movement
+email: gu_yuhang@outlook.com
+description: Gallery of Flow Maps.
 url: https://yuhanggu.github.io/MovementVis
 
 
@@ -14,7 +14,7 @@ url: https://yuhanggu.github.io/MovementVis
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Amsterdam
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -35,8 +35,8 @@ kramdown:
 owner:
   name: Leonids
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Visualization of Movement"
+  bio: "Gallery of Flow Maps"
   email:
   disqus-shortname:
   twitter: #username
