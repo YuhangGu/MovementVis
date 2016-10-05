@@ -1,123 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title></title>
-        <description></description>
-        <link>/</link>
-        <atom:link href="/feed.xml" rel="self"
-        type="application/rss+xml"/>
-        <pubDate>Tue, 04 Oct 2016 17:18:52 +0200</pubDate>
-        <lastBuildDate>Tue, 04 Oct 2016 17:18:52 +0200</lastBuildDate>
-        <generator>Jekyll v3.2.1</generator>
-        
-        <item>
-            <title>A network framework of cultural history</title>
-            <description>&lt;h3 id=&quot;net-migration-flow-map&quot;&gt;Net Migration Flow Map&lt;/h3&gt;
-&lt;p&gt;http://science.sciencemag.org/content/345/6196/558&lt;/p&gt;
-
-&lt;h3 id=&quot;multi-resolution-migration-mapping&quot;&gt;Multi-Resolution Migration Mapping&lt;/h3&gt;
-&lt;p&gt;http://www.nature.com/news/humanity-s-cultural-history-captured-in-5-minute-film-1.15650&lt;/p&gt;
-
-&lt;div align=&quot;center&quot;&gt;
-&lt;img src=&quot;https://yuhanggu.github.io/MovementVis/img/background/GuoMap2014.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
-&lt;/div&gt;
-</description>
-            <pubDate>Tue, 04 Oct 2016 00:12:12 +0200</pubDate>
-            <link>#/2016/10/04/culturemap.html</link>
-            <guid isPermaLink="true">#/2016/10/04/culturemap.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Net Migration Flow Map</title>
-            <description>&lt;h3 id=&quot;net-migration-flow-map&quot;&gt;Net Migration Flow Map&lt;/h3&gt;
+  <channel>
+    <title>Leonids</title>
+    <description>A simple and awesome blog theme powered by jekyll.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 Oct 2016 12:06:08 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2016 12:06:08 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Net Migration Flow Map</title>
+        <description>&lt;h3 id=&quot;net-migration-flow-map&quot;&gt;Net Migration Flow Map&lt;/h3&gt;
 &lt;p&gt;Top 200 smoothed net migration flows are overlayed on top of a map of smoothed net migration rate for each county. Blue colors represent places that had more out-migration than in-migration while red areas were hot destinations. The smoothed flows clearly explain the patterns in the net migration rate map. We can see where the out-migration went and where in-migration came from for the red areas.&lt;/p&gt;
 
 &lt;h3 id=&quot;multi-resolution-migration-mapping&quot;&gt;Multi-Resolution Migration Mapping&lt;/h3&gt;
 &lt;p&gt;By examining the flow map in Figure, we can obtain a rich set of new information on the national trends and local patterns of migration in the U.S. For example, the net migration rate map in Fig. 4 shows that the area around El Paso (Texas) has a strong negative net migration rate, indicating a significant loss of population due to out-migration to other areas. The flow map confirms this pattern and shows that its outgoing net-migration went almost in all directions to nearby areas. A number of metropolitan areas lose population due to negative net migration, such as Houston, Chicago, Boston, Detroit, Los Angeles, San Francisco, and Seattle. From the flow map, we can understand where the out-migration went. For example, it is surprising to see a large migration flow from Chicago to the Philadelphia area. Among others, one interesting trend shown in the map is that the net migration from the big blue band (stretching from El Paso, to Lubbock and to the west of Minneapolis) mostly moved to the east.&lt;/p&gt;
 </description>
-            <pubDate>Mon, 03 Oct 2016 23:12:12 +0200</pubDate>
-            <link>#/2016/10/03/guomap.html</link>
-            <guid isPermaLink="true">#/2016/10/03/guomap.html</guid>
-            
-            
-        </item>
+        <pubDate>Mon, 03 Oct 2016 23:12:12 +0200</pubDate>
+        <link>/articles/2016-10/guomap</link>
+        <guid isPermaLink="true">/articles/2016-10/guomap</guid>
         
-        <item>
-            <title>Air-traffic Flow Map</title>
-            <description>&lt;h3 id=&quot;net-migration-flow-map&quot;&gt;Net Migration Flow Map&lt;/h3&gt;
-&lt;p&gt;Top 200 smoothed net migration flows are overlayed on top of a map of smoothed net migration rate for each county. Blue colors represent places that had more out-migration than in-migration while red areas were hot destinations. The smoothed flows clearly explain the patterns in the net migration rate map. We can see where the out-migration went and where in-migration came from for the red areas.&lt;/p&gt;
-
-&lt;h3 id=&quot;multi-resolution-migration-mapping&quot;&gt;Multi-Resolution Migration Mapping&lt;/h3&gt;
-&lt;p&gt;By examining the flow map in Figure, we can obtain a rich set of new information on the national trends and local patterns of migration in the U.S. For example, the net migration rate map in Fig. 4 shows that the area around El Paso (Texas) has a strong negative net migration rate, indicating a significant loss of population due to out-migration to other areas. The flow map confirms this pattern and shows that its outgoing net-migration went almost in all directions to nearby areas. A number of metropolitan areas lose population due to negative net migration, such as Houston, Chicago, Boston, Detroit, Los Angeles, San Francisco, and Seattle. From the flow map, we can understand where the out-migration went. For example, it is surprising to see a large migration flow from Chicago to the Philadelphia area. Among others, one interesting trend shown in the map is that the net migration from the big blue band (stretching from El Paso, to Lubbock and to the west of Minneapolis) mostly moved to the east.&lt;/p&gt;
-</description>
-            <pubDate>Mon, 03 Oct 2016 23:12:12 +0200</pubDate>
-            <link>#/2016/10/03/StefanMap.html</link>
-            <guid isPermaLink="true">#/2016/10/03/StefanMap.html</guid>
-            
-            
-        </item>
         
-        <item>
-            <title>Doantam's Map</title>
-            <description>&lt;h3 id=&quot;net-migration-flow-map&quot;&gt;Net Migration Flow Map&lt;/h3&gt;
-&lt;p&gt;Top 200 smoothed net migration flows are overlayed on top of a map of smoothed net migration rate for each county. Blue colors represent places that had more out-migration than in-migration while red areas were hot destinations. The smoothed flows clearly explain the patterns in the net migration rate map. We can see where the out-migration went and where in-migration came from for the red areas.&lt;/p&gt;
-
-&lt;h3 id=&quot;multi-resolution-migration-mapping&quot;&gt;Multi-Resolution Migration Mapping&lt;/h3&gt;
-&lt;p&gt;By examining the flow map in Figure, we can obtain a rich set of new information on the national trends and local patterns of migration in the U.S. For example, the net migration rate map in Fig. 4 shows that the area around El Paso (Texas) has a strong negative net migration rate, indicating a significant loss of population due to out-migration to other areas. The flow map confirms this pattern and shows that its outgoing net-migration went almost in all directions to nearby areas. A number of metropolitan areas lose population due to negative net migration, such as Houston, Chicago, Boston, Detroit, Los Angeles, San Francisco, and Seattle. From the flow map, we can understand where the out-migration went. For example, it is surprising to see a large migration flow from Chicago to the Philadelphia area. Among others, one interesting trend shown in the map is that the net migration from the big blue band (stretching from El Paso, to Lubbock and to the west of Minneapolis) mostly moved to the east.&lt;/p&gt;
-</description>
-            <pubDate>Mon, 03 Oct 2016 23:12:12 +0200</pubDate>
-            <link>#/2016/10/03/Doantam.html</link>
-            <guid isPermaLink="true">#/2016/10/03/Doantam.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>The 'BEST' Flow Map</title>
-            <description>&lt;h3 id=&quot;it-may-well-be-the-best-statistical-graphic-ever-drawn-tufte&quot;&gt;It may well be the best statistical graphic ever drawn (Tufte)&lt;/h3&gt;
+      </item>
+    
+      <item>
+        <title>The classical flow map</title>
+        <description>&lt;h3 id=&quot;it-may-well-be-the-best-statistical-graphic-ever-drawn-tufte&quot;&gt;It may well be the best statistical graphic ever drawn (Tufte)&lt;/h3&gt;
 &lt;p&gt;The Minard map shows several ‘‘variables’’. As with any map, there is location. Next to the major paths, some minor paths are distinguished. Linked to the retreat path (the black, solid band) is a diagram indicating temperature. Additionally, the map shows the size of the army by numbers and by the width of the advance and retreat bands. Names indicate major battles and important geographic features. Time is inherently illustrated in the map as a clear distinction between the advance (going east) and retreat path (going west). Only in the temperature diagram, how- ever, are absolute time values provided. Interestingly, there was a long 50-km march between December 6 and 7 under very cold weather conditions, as can be read from the temperature diagram.&lt;/p&gt;
 
 &lt;h3 id=&quot;alternative-visualizations-of-minards-map&quot;&gt;Alternative visualizations of Minard’s map.&lt;/h3&gt;
 &lt;p&gt;Mapping the time dimension means mapping change in a feature’s geometry, its attributes or both. Traditionally, cartographers have three options to display geospatial data with a temporal component. These are a single (static) map, in which specific graphic variables and symbols are used to show change and represent events. Minard’s map is a good example of the first category. The second option is a series of (static) maps, sometimes called a small multiple. Fig. 3 gives several examples. The single map represents a snapshot in time and together the series of maps constitutes an event. succession of the individual maps depicting the events in successive snapshots. It could be said that the temporal sequence is represented by spatial sequence, which the user has to follow, in order to perceive temporal variation. Finally, one can create an animated map. Here change is perceived to happen in a single image by displaying several snapshots one after the other. The difference with the animation from the static series of maps is that the variations introduced to represent an event are not deduced from a spatial sequence, but from real movement on the map itself.&lt;/p&gt;
 </description>
-            <pubDate>Mon, 03 Oct 2016 14:12:12 +0200</pubDate>
-            <link>#/2016/10/03/minardmap.html</link>
-            <guid isPermaLink="true">#/2016/10/03/minardmap.html</guid>
-            
-            
-        </item>
+        <pubDate>Mon, 03 Oct 2016 14:12:12 +0200</pubDate>
+        <link>/articles/2016-10/minardmap</link>
+        <guid isPermaLink="true">/articles/2016-10/minardmap</guid>
         
-        <item>
-            <title>Frist Computer Generated Flow Map</title>
-            <description>&lt;h3 id=&quot;it-may-well-be-the-best-statistical-graphic-ever-drawn-tufte&quot;&gt;It may well be the best statistical graphic ever drawn (Tufte)&lt;/h3&gt;
-&lt;p&gt;The Minard map shows several ‘‘variables’’. As with any map, there is location. Next to the major paths, some minor paths are distinguished. Linked to the retreat path (the black, solid band) is a diagram indicating temperature. Additionally, the map shows the size of the army by numbers and by the width of the advance and retreat bands. Names indicate major battles and important geographic features. Time is inherently illustrated in the map as a clear distinction between the advance (going east) and retreat path (going west). Only in the temperature diagram, how- ever, are absolute time values provided. Interestingly, there was a long 50-km march between December 6 and 7 under very cold weather conditions, as can be read from the temperature diagram.&lt;/p&gt;
-
-&lt;h3 id=&quot;alternative-visualizations-of-minards-map&quot;&gt;Alternative visualizations of Minard’s map.&lt;/h3&gt;
-&lt;p&gt;Mapping the time dimension means mapping change in a feature’s geometry, its attributes or both. Traditionally, cartographers have three options to display geospatial data with a temporal component. These are a single (static) map, in which specific graphic variables and symbols are used to show change and represent events. Minard’s map is a good example of the first category. The second option is a series of (static) maps, sometimes called a small multiple. Fig. 3 gives several examples. The single map represents a snapshot in time and together the series of maps constitutes an event. succession of the individual maps depicting the events in successive snapshots. It could be said that the temporal sequence is represented by spatial sequence, which the user has to follow, in order to perceive temporal variation. Finally, one can create an animated map. Here change is perceived to happen in a single image by displaying several snapshots one after the other. The difference with the animation from the static series of maps is that the variations introduced to represent an event are not deduced from a spatial sequence, but from real movement on the map itself.&lt;/p&gt;
-</description>
-            <pubDate>Sun, 02 Oct 2016 14:00:00 +0200</pubDate>
-            <link>#/2016/10/02/toblermap.html</link>
-            <guid isPermaLink="true">#/2016/10/02/toblermap.html</guid>
-            
-            
-        </item>
         
-        <item>
-            <title>The Frist Flow Map</title>
-            <description>&lt;h3 id=&quot;it-may-well-be-the-best-statistical-graphic-ever-drawn-tufte&quot;&gt;It may well be the best statistical graphic ever drawn (Tufte)&lt;/h3&gt;
-&lt;p&gt;The Minard map shows several ‘‘variables’’. As with any map, there is location. Next to the major paths, some minor paths are distinguished. Linked to the retreat path (the black, solid band) is a diagram indicating temperature. Additionally, the map shows the size of the army by numbers and by the width of the advance and retreat bands. Names indicate major battles and important geographic features. Time is inherently illustrated in the map as a clear distinction between the advance (going east) and retreat path (going west). Only in the temperature diagram, how- ever, are absolute time values provided. Interestingly, there was a long 50-km march between December 6 and 7 under very cold weather conditions, as can be read from the temperature diagram.&lt;/p&gt;
-
-&lt;h3 id=&quot;alternative-visualizations-of-minards-map&quot;&gt;Alternative visualizations of Minard’s map.&lt;/h3&gt;
-&lt;p&gt;Mapping the time dimension means mapping change in a feature’s geometry, its attributes or both. Traditionally, cartographers have three options to display geospatial data with a temporal component. These are a single (static) map, in which specific graphic variables and symbols are used to show change and represent events. Minard’s map is a good example of the first category. The second option is a series of (static) maps, sometimes called a small multiple. Fig. 3 gives several examples. The single map represents a snapshot in time and together the series of maps constitutes an event. succession of the individual maps depicting the events in successive snapshots. It could be said that the temporal sequence is represented by spatial sequence, which the user has to follow, in order to perceive temporal variation. Finally, one can create an animated map. Here change is perceived to happen in a single image by displaying several snapshots one after the other. The difference with the animation from the static series of maps is that the variations introduced to represent an event are not deduced from a spatial sequence, but from real movement on the map itself.&lt;/p&gt;
-</description>
-            <pubDate>Sun, 02 Oct 2016 14:00:00 +0200</pubDate>
-            <link>#/2016/10/02/fristflowmap.html</link>
-            <guid isPermaLink="true">#/2016/10/02/fristflowmap.html</guid>
-            
-            
-        </item>
-        
-    </channel>
+      </item>
+    
+  </channel>
 </rss>

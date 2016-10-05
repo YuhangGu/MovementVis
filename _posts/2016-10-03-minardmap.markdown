@@ -1,5 +1,5 @@
 ---
-title:  "The 'BEST' Flow Map"
+title:  "The classical flow map"
 subtitle: "Charles Minard’s Map of Napoleon’s Russian Campaign of 1812"
 author: "Yuhang"
 avatar: "img/authors/yuhang.png"
