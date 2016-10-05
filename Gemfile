@@ -1,1 +1,2 @@
-gem 'leonids', '~> 0.1.1'
+source 'https://ruby.taobao.org/'
+gem 'github-pages'
