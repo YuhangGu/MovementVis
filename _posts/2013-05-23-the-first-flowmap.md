@@ -1,13 +1,16 @@
 ---
-title:  "The classical flow map"
-subtitle: "Charles Minard’s Map of Napoleon’s Russian Campaign of 1812"
-author: "Yuhang"
-avatar: "img/authors/yuhang.png"
-image: "img/background/MinardMap.jpg"
-date:   2016-10-03 12:12:12
+layout: post
+title: "The First Flow Map"
+excerpt: "It may well be the best statistical graphic ever drawn -- Tufte"
+categories: [2D, flow map]
+author: Yuhang
+comments: true
+image:
+  feature: img/firstflowmap.jpg
 ---
 
-### It may well be the best statistical graphic ever drawn (Tufte)
+## It may well be the best statistical graphic ever drawn (Tufte)
+
 The Minard map shows several ‘‘variables’’. As with any map, there is location. Next to the major paths, some minor paths are distinguished. Linked to the retreat path (the black, solid band) is a diagram indicating temperature. Additionally, the map shows the size of the army by numbers and by the width of the advance and retreat bands. Names indicate major battles and important geographic features. Time is inherently illustrated in the map as a clear distinction between the advance (going east) and retreat path (going west). Only in the temperature diagram, how- ever, are absolute time values provided. Interestingly, there was a long 50-km march between December 6 and 7 under very cold weather conditions, as can be read from the temperature diagram.
 
 ### Alternative visualizations of Minard’s map.
