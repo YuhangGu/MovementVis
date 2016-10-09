@@ -5,20 +5,20 @@
     <description>Gallery of Flow Maps.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 00:29:38 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 00:29:38 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2016 00:33:23 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 00:33:23 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>How animals will have to migrate because of the climate change</title>
-        <description>&lt;p&gt;From 1820 to 2013, 79 million people obtained lawful permanent resident status in the United States. The interactive map below visualizes all of them based on their prior country of residence. The brightness of a country corresponds to its total migration to the U.S. at the given time.&lt;/p&gt;
+        <description>&lt;div&gt;
+    &lt;iframe src=&quot;http://maps.tnc.org/migrations-in-motion/#4/43.20/-111.88&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;br /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://metrocosm.com/us-immigration-history-map.html&quot;&gt;The interactive map&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://maps.tnc.org/migrations-in-motion/#4/43.20/-111.88&quot;&gt;The interactive map&lt;/a&gt;&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-video&quot; data-lang=&quot;zh-cn&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Here is everyone who&amp;#39;s emigrated to the U.S. since 1820 (1 dot = 10,000 people) &lt;a href=&quot;https://t.co/SaQFzv4Rgv&quot;&gt;https://t.co/SaQFzv4Rgv&lt;/a&gt;&lt;a href=&quot;https://t.co/CqijaH8a1n&quot;&gt;https://t.co/CqijaH8a1n&lt;/a&gt;&lt;/p&gt;&amp;mdash; Max Galka (@galka_max) &lt;a href=&quot;https://twitter.com/galka_max/status/727895094255190016&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;from &lt;a href=&quot;http://metrocosm.com/animated-immigration-map/&quot;&gt;cf. city flows&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;from &lt;a href=&quot;http://geoawesomeness.com/map-shows-animals-will-migrate-climate-change/&quot;&gt;geoawesomeness.com&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Oct 2016 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/2016-10/AnimalMigration</link>
