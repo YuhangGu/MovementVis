@@ -3,10 +3,10 @@
   <channel>
     <title>Visualization of Movement</title>
     <description>Gallery of Flow Maps.</description>
-    <link>https://yuhanggu.github.io/MovementVis/</link>
-    <atom:link href="https://yuhanggu.github.io/MovementVis/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Oct 2016 22:57:51 +0200</pubDate>
-    <lastBuildDate>Sun, 09 Oct 2016 22:57:51 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Oct 2016 23:03:21 +0200</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2016 23:03:21 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -19,9 +19,9 @@
 &lt;p&gt;cf. city flows has three viewing modes, all visualizing trips of rented bikes, but focusing on different levels of spatial and temporal granularity of cycling mobility:
 The citywide view aggregates all trajectories of bike-sharing trips for a given day and animates the trails for trips at a given time.&lt;/p&gt;
 
-&lt;p&gt;In the station view only the bike trips to and from a selected station are shown, allowing the distinction between incoming and outgoing.&lt;/p&gt;
+&lt;p&gt;In the &lt;code class=&quot;highlighter-rouge&quot;&gt;station view&lt;/code&gt; only the bike trips to and from a selected station are shown, allowing the distinction between incoming and outgoing.&lt;/p&gt;
 
-&lt;p&gt;A small-multiple view visualizes spatiotemporal patterns for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.&lt;/p&gt;
+&lt;p&gt;A small-multiple view visualizes &lt;code class=&quot;highlighter-rouge&quot;&gt;spatio-temporal patterns&lt;/code&gt; for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.&lt;/p&gt;
 
 &lt;div class=&quot;slider-container&quot; style=&quot;padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 1.5rem;
   position: relative;
@@ -36,8 +36,8 @@ The citywide view aggregates all trajectories of bike-sharing trips for a given 
 &lt;p&gt;from &lt;a href=&quot;https://uclab.fh-potsdam.de/cf/&quot;&gt;cf. city flows&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/CityFlow</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/CityFlow</guid>
+        <link>http://localhost:4000/articles/2016-10/CityFlow</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/CityFlow</guid>
         
         
         <category>Animation</category>
@@ -51,8 +51,8 @@ The citywide view aggregates all trajectories of bike-sharing trips for a given 
 &lt;p&gt;Mapping the time dimension means mapping change in a feature’s geometry, its attributes or both. Traditionally, cartographers have three options to display geospatial data with a temporal component. These are a single (static) map, in which specific graphic variables and symbols are used to show change and represent events. Minard’s map is a good example of the first category. The second option is a series of (static) maps, sometimes called a small multiple. Fig. 3 gives several examples. The single map represents a snapshot in time and together the series of maps constitutes an event. succession of the individual maps depicting the events in successive snapshots. It could be said that the temporal sequence is represented by spatial sequence, which the user has to follow, in order to perceive temporal variation. Finally, one can create an animated map. Here change is perceived to happen in a single image by displaying several snapshots one after the other. The difference with the animation from the static series of maps is that the variations introduced to represent an event are not deduced from a spatial sequence, but from real movement on the map itself.&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/MinardMap</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/MinardMap</guid>
+        <link>http://localhost:4000/articles/2016-10/MinardMap</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/MinardMap</guid>
         
         
         <category>2D</category>
@@ -68,8 +68,8 @@ The citywide view aggregates all trajectories of bike-sharing trips for a given 
 &lt;p&gt;Mapping the time dimension means mapping change in a feature’s geometry, its attributes or both. Traditionally, cartographers have three options to display geospatial data with a temporal component. These are a single (static) map, in which specific graphic variables and symbols are used to show change and represent events. Minard’s map is a good example of the first category. The second option is a series of (static) maps, sometimes called a small multiple. Fig. 3 gives several examples. The single map represents a snapshot in time and together the series of maps constitutes an event. succession of the individual maps depicting the events in successive snapshots. It could be said that the temporal sequence is represented by spatial sequence, which the user has to follow, in order to perceive temporal variation. Finally, one can create an animated map. Here change is perceived to happen in a single image by displaying several snapshots one after the other. The difference with the animation from the static series of maps is that the variations introduced to represent an event are not deduced from a spatial sequence, but from real movement on the map itself.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/frist-flowmap</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/frist-flowmap</guid>
+        <link>http://localhost:4000/articles/2016-10/frist-flowmap</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/frist-flowmap</guid>
         
         
         <category>2D</category>
