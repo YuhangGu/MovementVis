@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The First Flow Map"
+title: "Minard map"
 excerpt: "It may well be the best statistical graphic ever drawn -- Tufte"
 categories: [2D, Flow Map]
 author: Yuhang
