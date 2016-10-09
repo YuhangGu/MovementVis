@@ -5,12 +5,12 @@
     <description>Gallery of Flow Maps.</description>
     <link>https://yuhanggu.github.io/MovementVis/</link>
     <atom:link href="https://yuhanggu.github.io/MovementVis/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Oct 2016 16:48:13 +0200</pubDate>
-    <lastBuildDate>Sun, 09 Oct 2016 16:48:13 +0200</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2016 16:50:52 +0200</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2016 16:50:52 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>The First Flow Map</title>
+        <title></title>
         <description>&lt;div&gt; &lt;iframe src=&quot;https://player.vimeo.com/video/173787508&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/173787508&quot;&gt;cf. city flows - Screencast&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/tillnm&quot;&gt;Till Nagel&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
 
@@ -21,14 +21,10 @@
 
 &lt;p&gt;Mapping the time dimension means mapping change in a feature’s geometry, its attributes or both. Traditionally, cartographers have three options to display geospatial data with a temporal component. These are a single (static) map, in which specific graphic variables and symbols are used to show change and represent events. Minard’s map is a good example of the first category. The second option is a series of (static) maps, sometimes called a small multiple. Fig. 3 gives several examples. The single map represents a snapshot in time and together the series of maps constitutes an event. succession of the individual maps depicting the events in successive snapshots. It could be said that the temporal sequence is represented by spatial sequence, which the user has to follow, in order to perceive temporal variation. Finally, one can create an animated map. Here change is perceived to happen in a single image by displaying several snapshots one after the other. The difference with the animation from the static series of maps is that the variations introduced to represent an event are not deduced from a spatial sequence, but from real movement on the map itself.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 03 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/CityFlow</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/CityFlow</guid>
+        <pubDate>Sun, 09 Oct 2016 16:50:52 +0200</pubDate>
+        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/2016-10-03-CityFlow</link>
+        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/2016-10-03-CityFlow</guid>
         
-        
-        <category>2D</category>
-        
-        <category>Flow Map</category>
         
       </item>
     
