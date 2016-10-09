@@ -5,8 +5,8 @@
     <description>Gallery of Flow Maps.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Oct 2016 23:19:11 +0200</pubDate>
-    <lastBuildDate>Sun, 09 Oct 2016 23:19:11 +0200</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2016 23:33:02 +0200</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2016 23:33:02 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -24,20 +24,15 @@
 
 &lt;p&gt;A &lt;code class=&quot;highlighter-rouge&quot;&gt;small-multiple view&lt;/code&gt; visualizes spatio-temporal patterns for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.&lt;/p&gt;
 
-&lt;div class=&quot;slider-container&quot;&gt;&lt;img alt=&quot;Trails of rented bikes in New York&quot; src=&quot;images/cf-nyc-citywide.jpg&quot; /&gt;
-        &lt;h2 class=&quot;slider-title&quot;&gt;&lt;span class=&quot;slider-title-padding&quot;&gt;&lt;span class=&quot;slider-title-underline&quot;&gt;Citywide view showing bike trajectories.&lt;/span&gt;&lt;/span&gt; 
-&amp;lt;/div&amp;gt;
+&lt;div align=&quot;center&quot;&gt; &lt;img src=&quot;https://yuhanggu.github.io/MovementVis/img/cf-nyc-citywide.jpg&quot; width=&quot;80%&quot; height=&quot;80%&quot; /&gt;&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt; &lt;img src=&quot;https://yuhanggu.github.io/MovementVis/img/cf-london-station.jpg&quot; width=&quot;80%&quot; height=&quot;80%&quot; /&gt;&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt; &lt;img src=&quot;https://yuhanggu.github.io/MovementVis/img/cf-nyc-smallmultiples.png&quot; width=&quot;80%&quot; height=&quot;80%&quot; /&gt;&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt; &lt;img src=&quot;https://yuhanggu.github.io/MovementVis/img/cf-ipad-dashboard-controller.png&quot; width=&quot;80%&quot; height=&quot;80%&quot; /&gt;&lt;/div&gt;
 
-
-&lt;div class=&quot;slider-container&quot; style=&quot;padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 1.5rem;
-  position: relative;
-  float: left;
-  margin-left: -1.25rem;
-  width: calc( 100% - .5rem);&quot;&gt;
-                &lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/DdqbWhOHLZUSEf&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;position: absolute; top: 0; left: 0; width: 80%; height: 80%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div class=&quot;slider-container&quot; style=&quot;padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 1.5rem; position: relative; float: left; margin-left: -1.25rem; width: calc( 100% - .5rem);&quot; align=&quot;center&quot;&gt;
+    &lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/DdqbWhOHLZUSEf&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;position: absolute; top: 0; left: 0; width: 80%; height: 80%;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;p&gt;from &lt;a href=&quot;https://uclab.fh-potsdam.de/cf/&quot;&gt;cf. city flows&lt;/a&gt;&lt;/p&gt;
-&lt;/h2&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 03 Oct 2016 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/2016-10/CityFlow</link>
