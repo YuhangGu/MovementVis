@@ -58,12 +58,10 @@ layout: default
     </div><!-- /.image-wrap -->
     {% endif %}
 
-    {% if post.image.video %}
-    <div  class="post-video-feature">
-      <iframe src= "{{ post.video.feature }}" width="640" height="360" frameborder="0"
+    {% if post.video.feature %}
+    <div>
+      <iframe src="{{ post.video.feature }}" width="640" height="360" frameborder="0"
               webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-      <p><a href="https://vimeo.com/173787508">cf. city flows - Screencast</a> from <a href="https://vimeo.com/tillnm">Till
-        Nagel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
     </div>
     {% endif %}
 
