@@ -5,8 +5,8 @@
     <description>Gallery of Flow Maps.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 00:40:46 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 00:40:46 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2016 00:41:47 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 00:41:47 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -28,7 +28,7 @@
       </item>
     
       <item>
-        <title>international migrants </title>
+        <title>How animals will have to migrate because of the climate change</title>
         <description>&lt;div&gt;
     &lt;iframe src=&quot;http://maps.tnc.org/migrations-in-motion/#4/43.20/-111.88&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
     &lt;br /&gt;
