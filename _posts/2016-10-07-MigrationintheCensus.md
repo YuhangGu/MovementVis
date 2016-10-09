@@ -10,9 +10,10 @@ image:
 ---
 
 <div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4fI2R9CX0Po" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/fiPq7C06zjQ" width="640" height="360" frameborder="0"></iframe>
     <br>
 </div>
+
 
 
 <p>from <a href="http://seeingdata.cleverfranke.com/census/#">seeingdata</a></p>

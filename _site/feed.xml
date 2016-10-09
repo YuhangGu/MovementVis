@@ -5,14 +5,14 @@
     <description>Gallery of Flow Maps.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 01:09:58 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 01:09:58 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2016 01:11:43 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 01:11:43 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Amazing map of air traffic network</title>
         <description>&lt;div&gt;
-    &lt;iframe src=&quot;https://www.youtube.com/embed/fiPq7C06zjQ&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4fI2R9CX0Po&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;br /&gt;
 &lt;/div&gt;
 
@@ -30,7 +30,7 @@
       <item>
         <title>Migration in the Census</title>
         <description>&lt;div&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4fI2R9CX0Po&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;iframe src=&quot;https://www.youtube.com/embed/fiPq7C06zjQ&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
     &lt;br /&gt;
 &lt;/div&gt;
 
