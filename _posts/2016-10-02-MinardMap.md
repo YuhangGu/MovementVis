@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The First Flow Map"
-excerpt: ""
+excerpt: "It may well be the best statistical graphic ever drawn -- Tufte"
 categories: [2D, Flow Map]
 author: Yuhang
 comments: true
 image:
-  feature: https://yuhanggu.github.io/MovementVis/img/firstflowmap.jpg
+  feature: https://yuhanggu.github.io/MovementVis/img/MinardMap.jpg
 ---
 
 The Minard map shows several ‘‘variables’’. As with any map, there is location. Next to the major paths, some minor paths are distinguished. Linked to the retreat path (the black, solid band) is a diagram indicating temperature. Additionally, the map shows the size of the army by numbers and by the width of the advance and retreat bands. Names indicate major battles and important geographic features. Time is inherently illustrated in the map as a clear distinction between the advance (going east) and retreat path (going west). Only in the temperature diagram, how- ever, are absolute time values provided. Interestingly, there was a long 50-km march between December 6 and 7 under very cold weather conditions, as can be read from the temperature diagram.
