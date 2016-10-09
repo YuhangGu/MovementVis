@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f40b74e6-c478-40d8-b7da-d9847a49a29b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-05-AnimalMigration.md" afterPath="$PROJECT_DIR$/_posts/2016-10-05-AnimalMigration.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-07-MigrationintheCensus.md" afterPath="$PROJECT_DIR$/_posts/2016-10-07-MigrationintheCensus.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
     </list>
     <ignored path="MovementVis.iws" />
@@ -51,7 +50,7 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
               <folding>
-                <marker date="1476052400000" expanded="true" signature="6134:6151" placeholder="..." />
+                <marker date="1476054775000" expanded="true" signature="6134:6151" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -71,9 +70,9 @@
         <entry file="file://$PROJECT_DIR$/_site/categories/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
               <folding>
-                <marker date="1476052400000" expanded="true" signature="3380:3459" placeholder="..." />
+                <marker date="1476054775000" expanded="true" signature="3380:3459" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -562,11 +561,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/avatar.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yuhang.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -651,7 +645,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
           <folding>
-            <marker date="1476052400000" expanded="true" signature="6134:6151" placeholder="..." />
+            <marker date="1476054775000" expanded="true" signature="6134:6151" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -667,9 +661,9 @@
     <entry file="file://$PROJECT_DIR$/_site/categories/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
           <folding>
-            <marker date="1476052400000" expanded="true" signature="3380:3459" placeholder="..." />
+            <marker date="1476054775000" expanded="true" signature="3380:3459" placeholder="..." />
           </folding>
         </state>
       </provider>
