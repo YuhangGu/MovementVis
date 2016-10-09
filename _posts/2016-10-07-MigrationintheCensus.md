@@ -10,7 +10,7 @@ image:
 ---
 
 <div>
-    <iframe src="https://www.youtube.com/embed/fiPq7C06zjQ" width="640" height="360" frameborder="0"></iframe>
+    <iframe src="http://seeingdata.cleverfranke.com/census/#" width="640" height="360" frameborder="0"></iframe>
     <br>
 </div>
 
