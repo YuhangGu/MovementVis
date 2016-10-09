@@ -5,8 +5,8 @@
     <description>Gallery of Flow Maps.</description>
     <link>https://yuhanggu.github.io/MovementVis/</link>
     <atom:link href="https://yuhanggu.github.io/MovementVis/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Oct 2016 22:51:15 +0200</pubDate>
-    <lastBuildDate>Sun, 09 Oct 2016 22:51:15 +0200</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2016 22:54:10 +0200</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2016 22:54:10 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;p&gt;cf. city flows is an installation that combines multiple visualizations of bike-sharing journeys in three cities. It applies established mapping and visualization techniques within a highly aestheticized framework in order to animate visitors to engage with urban mobility.&lt;/p&gt;
 
-&lt;p&gt;The city flow has three different 
+&lt;p&gt;The city flow has three different visualization 
 cf. city flows has three viewing modes, all visualizing trips of rented bikes, but focusing on different levels of spatial and temporal granularity of cycling mobility:
 The citywide view aggregates all trajectories of bike-sharing trips for a given day and animates the trails for trips at a given time.
 In the station view only the bike trips to and from a selected station are shown, allowing the distinction between incoming and outgoing.
