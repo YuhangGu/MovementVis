@@ -5,8 +5,8 @@
     <description>Gallery of Flow Maps.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Oct 2016 22:46:20 +0200</pubDate>
-    <lastBuildDate>Sun, 09 Oct 2016 22:46:20 +0200</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2016 22:50:56 +0200</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2016 22:50:56 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -16,11 +16,17 @@
 
 &lt;p&gt;cf. city flows is an installation that combines multiple visualizations of bike-sharing journeys in three cities. It applies established mapping and visualization techniques within a highly aestheticized framework in order to animate visitors to engage with urban mobility.&lt;/p&gt;
 
+&lt;p&gt;The city flow has three different 
+cf. city flows has three viewing modes, all visualizing trips of rented bikes, but focusing on different levels of spatial and temporal granularity of cycling mobility:
+The citywide view aggregates all trajectories of bike-sharing trips for a given day and animates the trails for trips at a given time.
+In the station view only the bike trips to and from a selected station are shown, allowing the distinction between incoming and outgoing.
+A small-multiple view visualizes spatiotemporal patterns for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.&lt;/p&gt;
+
 &lt;div class=&quot;slider-container&quot; style=&quot;padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 1.5rem;
   position: relative;
   float: left;
   margin-left: -1.25rem;
-  width: calc( 100% - .5rem);&quot;&gt;
+  width: calc( 60% - .5rem);&quot;&gt;
                 &lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/DdqbWhOHLZUSEf&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 
                 &lt;!--&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;f3c5eb2dd2c443c6b1d6d521f58d363e&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;http://speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;--&gt;
