@@ -5,8 +5,8 @@
     <description>Gallery of Flow Maps.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 09:16:31 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 09:16:31 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2016 09:25:05 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 09:25:05 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -73,7 +73,13 @@
         <guid isPermaLink="true">http://localhost:4000/articles/2016-10/InternationalMigrants</guid>
         
         
-        <category>Animation</category>
+        <category>Interaction</category>
+        
+        <category>Timeline</category>
+        
+        <category>Quantity</category>
+        
+        <category>Multiple view</category>
         
       </item>
     
@@ -95,6 +101,8 @@
         
         <category>Animation</category>
         
+        <category>Quality</category>
+        
       </item>
     
       <item>
@@ -111,7 +119,7 @@
     &lt;blockquote class=&quot;twitter-video&quot; data-lang=&quot;zh-cn&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Here is everyone who&amp;#39;s emigrated to the U.S. since 1820 (1 dot = 10,000 people) &lt;a href=&quot;https://t.co/SaQFzv4Rgv&quot;&gt;https://t.co/SaQFzv4Rgv&lt;/a&gt;&lt;a href=&quot;https://t.co/CqijaH8a1n&quot;&gt;https://t.co/CqijaH8a1n&lt;/a&gt;&lt;/p&gt;&amp;mdash; Max Galka (@galka_max) &lt;a href=&quot;https://twitter.com/galka_max/status/727895094255190016&quot;&gt;2016年5月4日&lt;/a&gt;&lt;/blockquote&gt; &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 &lt;/div&gt;
 
-&lt;p&gt;from &lt;a href=&quot;http://metrocosm.com/animated-immigration-map/&quot;&gt;cf. city flows&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;from &lt;a href=&quot;http://metrocosm.com/animated-immigration-map/&quot;&gt;Max Galka&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/2016-10/UsImmigrationMap</link>
@@ -119,6 +127,10 @@
         
         
         <category>Animation</category>
+        
+        <category>Timeline</category>
+        
+        <category>Quality</category>
         
       </item>
     
@@ -157,6 +169,10 @@
         
         <category>Animation</category>
         
+        <category>Aggregation</category>
+        
+        <category>Multiple View</category>
+        
       </item>
     
       <item>
@@ -172,8 +188,6 @@
         
         <category>2D</category>
         
-        <category>Flow Map</category>
-        
       </item>
     
       <item>
@@ -188,8 +202,6 @@
         
         
         <category>2D</category>
-        
-        <category>Flow Map</category>
         
       </item>
     

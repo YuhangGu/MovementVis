@@ -2,7 +2,7 @@
 layout: post
 title: "Minard map"
 excerpt: "It may well be the best statistical graphic ever drawn -- Tufte"
-categories: [2D, Flow Map]
+categories: [2D]
 author: Yuhang
 comments: true
 image:

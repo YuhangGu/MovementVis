@@ -2,7 +2,7 @@
 layout: post
 title: "The First Flow Map"
 excerpt: ""
-categories: [2D, Flow Map]
+categories: [2D]
 author: Yuhang
 comments: true
 image:

@@ -2,7 +2,7 @@
 layout: post
 title: "Two Centuries of U.S. Immigration"
 excerpt: ""
-categories: [Animation]
+categories: [Animation, Timeline, Quality]
 author: Yuhang
 comments: true
 video:
@@ -24,4 +24,4 @@ From 1820 to 2013, 79 million people obtained lawful permanent resident status i
 
 
 
-<p>from <a href="http://metrocosm.com/animated-immigration-map/">cf. city flows</a></p>
+<p>from <a href="http://metrocosm.com/animated-immigration-map/">Max Galka</a></p>

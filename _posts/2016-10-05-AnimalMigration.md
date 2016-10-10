@@ -2,7 +2,7 @@
 layout: post
 title: "How animals will have to migrate because of the climate change"
 excerpt: ""
-categories: [Animation]
+categories: [Animation, Quality]
 author: Yuhang
 comments: true
 image:
