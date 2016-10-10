@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Amazing map of air traffic network"
+title: "Connected World: Untangling the Air Traffic Network"
 excerpt: ""
-categories: [force-directed, ]
+categories: [Force-directed, Deformation, Quality]
 author: Yuhang
 comments: true
 image:
@@ -19,4 +19,4 @@ Naturally, network geography is not completely disrupted: the continents are mos
 </div>
 
 
-<p>from<a href="http://www.martingrandjean.ch/connected-world-air-traffic-network/">Martin Grandjean</a></p>
+<p>from <a href="http://www.martingrandjean.ch/connected-world-air-traffic-network/">Martin Grandjean</a></p>

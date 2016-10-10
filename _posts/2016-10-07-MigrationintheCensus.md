@@ -2,7 +2,7 @@
 layout: post
 title: "Migration in the Census"
 excerpt: ""
-categories: [Animation]
+categories: [Interaction, Aggregation, Quantity]
 author: Yuhang
 comments: true
 image:
