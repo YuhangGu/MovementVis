@@ -3,27 +3,31 @@
   <channel>
     <title>Visualization of Movement</title>
     <description>Gallery of Flow Maps.</description>
-    <link>https://yuhanggu.github.io/MovementVis/</link>
-    <atom:link href="https://yuhanggu.github.io/MovementVis/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 01:17:46 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 01:17:46 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Oct 2016 09:07:46 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 09:07:46 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Amazing map of air traffic network</title>
-        <description>&lt;div&gt;
+        <description>&lt;p&gt;This “map” is the result of the application of a force-directed layout algorithm on a graph of 3.275 airports (37.153 single routes – the weighted total is higher because many airlines take the same route), based on &lt;code class=&quot;highlighter-rouge&quot;&gt;OpenFlights.org&lt;/code&gt; data.&lt;/p&gt;
+
+&lt;p&gt;Naturally, network geography is not completely disrupted: the continents are mostly visible and regions are generally in their original position (with the exception of the Pacific islands that connect Asia and America – imagine this graph in three dimensions, with the Pacific Ocean behind). Major observations: India is more connected to the Middle East than to South and East Asia. The Russian cluster is very visible, connecting airports in Russia but also in many former Soviet republics. Latin america is clearly divided between a South cluster and a Central American cluster very connected with the U.S.&lt;/p&gt;
+
+&lt;div&gt;
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4fI2R9CX0Po&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;br /&gt;
 &lt;/div&gt;
 
-&lt;p&gt;from &lt;a href=&quot;http://geoawesomeness.com/amazing-map-of-air-traffic-network/&quot;&gt;geoawesomeness.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;from&lt;a href=&quot;http://www.martingrandjean.ch/connected-world-air-traffic-network/&quot;&gt;Martin Grandjean&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/airportsnetwork</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/airportsnetwork</guid>
+        <link>http://localhost:4000/articles/2016-10/airportsnetwork</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/airportsnetwork</guid>
         
         
-        <category>Animation</category>
+        <category>force-directed</category>
         
       </item>
     
@@ -37,8 +41,8 @@
 &lt;p&gt;from &lt;a href=&quot;http://seeingdata.cleverfranke.com/census/#&quot;&gt;seeingdata&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/MigrationintheCensus</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/MigrationintheCensus</guid>
+        <link>http://localhost:4000/articles/2016-10/MigrationintheCensus</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/MigrationintheCensus</guid>
         
         
         <category>Animation</category>
@@ -55,8 +59,8 @@
 &lt;p&gt;from &lt;a href=&quot;http://coolmaps.esri.com/Migration/Trends/&quot;&gt;coolmaps.esri.com&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/InternationalMigrants</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/InternationalMigrants</guid>
+        <link>http://localhost:4000/articles/2016-10/InternationalMigrants</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/InternationalMigrants</guid>
         
         
         <category>Animation</category>
@@ -75,8 +79,8 @@
 &lt;p&gt;from &lt;a href=&quot;http://geoawesomeness.com/map-shows-animals-will-migrate-climate-change/&quot;&gt;geoawesomeness.com&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/AnimalMigration</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/AnimalMigration</guid>
+        <link>http://localhost:4000/articles/2016-10/AnimalMigration</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/AnimalMigration</guid>
         
         
         <category>Animation</category>
@@ -100,8 +104,8 @@
 &lt;p&gt;from &lt;a href=&quot;http://metrocosm.com/animated-immigration-map/&quot;&gt;cf. city flows&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/UsImmigrationMap</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/UsImmigrationMap</guid>
+        <link>http://localhost:4000/articles/2016-10/UsImmigrationMap</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/UsImmigrationMap</guid>
         
         
         <category>Animation</category>
@@ -137,8 +141,8 @@
 &lt;p&gt;from &lt;a href=&quot;https://uclab.fh-potsdam.de/cf/&quot;&gt;cf. city flows&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/CityFlow</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/CityFlow</guid>
+        <link>http://localhost:4000/articles/2016-10/CityFlow</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/CityFlow</guid>
         
         
         <category>Animation</category>
@@ -152,8 +156,8 @@
 &lt;p&gt;Mapping the time dimension means mapping change in a feature’s geometry, its attributes or both. Traditionally, cartographers have three options to display geospatial data with a temporal component. These are a single (static) map, in which specific graphic variables and symbols are used to show change and represent events. Minard’s map is a good example of the first category. The second option is a series of (static) maps, sometimes called a small multiple. Fig. 3 gives several examples. The single map represents a snapshot in time and together the series of maps constitutes an event. succession of the individual maps depicting the events in successive snapshots. It could be said that the temporal sequence is represented by spatial sequence, which the user has to follow, in order to perceive temporal variation. Finally, one can create an animated map. Here change is perceived to happen in a single image by displaying several snapshots one after the other. The difference with the animation from the static series of maps is that the variations introduced to represent an event are not deduced from a spatial sequence, but from real movement on the map itself.&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/MinardMap</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/MinardMap</guid>
+        <link>http://localhost:4000/articles/2016-10/MinardMap</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/MinardMap</guid>
         
         
         <category>2D</category>
@@ -169,8 +173,8 @@
 &lt;p&gt;Mapping the time dimension means mapping change in a feature’s geometry, its attributes or both. Traditionally, cartographers have three options to display geospatial data with a temporal component. These are a single (static) map, in which specific graphic variables and symbols are used to show change and represent events. Minard’s map is a good example of the first category. The second option is a series of (static) maps, sometimes called a small multiple. Fig. 3 gives several examples. The single map represents a snapshot in time and together the series of maps constitutes an event. succession of the individual maps depicting the events in successive snapshots. It could be said that the temporal sequence is represented by spatial sequence, which the user has to follow, in order to perceive temporal variation. Finally, one can create an animated map. Here change is perceived to happen in a single image by displaying several snapshots one after the other. The difference with the animation from the static series of maps is that the variations introduced to represent an event are not deduced from a spatial sequence, but from real movement on the map itself.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://yuhanggu.github.io/MovementVis/articles/2016-10/frist-flowmap</link>
-        <guid isPermaLink="true">https://yuhanggu.github.io/MovementVis/articles/2016-10/frist-flowmap</guid>
+        <link>http://localhost:4000/articles/2016-10/frist-flowmap</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-10/frist-flowmap</guid>
         
         
         <category>2D</category>
